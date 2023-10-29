@@ -1,4 +1,4 @@
-const Populer = () => {
+const Page = () => {
     return (
         <div>
 
@@ -6,4 +6,4 @@ const Populer = () => {
     )
 }
 
-export default Populer
+export default Page
